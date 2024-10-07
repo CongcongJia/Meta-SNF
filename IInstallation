@@ -1,0 +1,9 @@
+install.packages("dplyr")
+install.packages("data.table")
+install.packages("NMF")
+install.packages("SNFtool")
+install.packages("survival")
+install.packages("survminer")
+install.packages("survival")
+install.packages("survRM2)"
+install.packages("ggplot2")
