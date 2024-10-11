@@ -1,4 +1,3 @@
-Meta-SNF
 
 # Meta-SNF
 ## Installation
